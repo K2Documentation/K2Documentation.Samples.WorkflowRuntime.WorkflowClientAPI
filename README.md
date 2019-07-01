@@ -4,7 +4,10 @@ This project contains sample code that demonstrates common uses of the SourceCod
 * starting a workflow
 * retrieving workflow tasks/worklist items
 * completing a workflwo task/worklist item
-* working with comments and attachments 
+* working with comments and attachments
+
+Find more information about this API in the K2 Developers Reference at 
+https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Runtime/WF-Client/WF-ClientAPI.htm
 
 ## Prerequisites
 The sample code has the following dependencies: 
